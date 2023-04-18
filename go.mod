@@ -138,3 +138,5 @@ require (
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 )
+
+replace cuelang.org/go => github.com/sergicastro/cue v0.0.0-20230418084621-1804e5561372
